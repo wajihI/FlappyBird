@@ -2,6 +2,7 @@
 
 Fully functioning Flappy Bird game with score to keep track.
 
+Link: https://wajihi.github.io/FlappyBird/
 
 Note:
 
