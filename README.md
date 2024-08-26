@@ -12,3 +12,5 @@ First pipe will not count as the first score. The subsequent pipes will.
 Also, bird does not 'tilt' up or down. 
 
 Game plays through github pages.
+
+Hello
